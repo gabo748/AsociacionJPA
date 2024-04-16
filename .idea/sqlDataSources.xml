@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="aae95a1c-eda5-4a13-a5b1-75c894110f3a" name="test@localhost Mapping">
+      <data-sources db="0d19c42a-8db4-4877-a3c3-0f04c45b3787" ddl="ac39ecc9-f0d2-40a5-8818-9f9296e7608b" />
+      <scope>
+        <node kind="schema" qname="mysql" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="ac39ecc9-f0d2-40a5-8818-9f9296e7608b" />
+          <option name="name" value="test@localhost (DDL)" />
+          <option name="dbmsName" value="MYSQL" />
+          <option name="parent" value="0d19c42a-8db4-4877-a3c3-0f04c45b3787" />
+          <option name="urls">
+            <array />
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
